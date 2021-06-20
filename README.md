@@ -21,6 +21,7 @@ make all
 # Features
 - [X] Encode 
 - [ ] Decode
+
 Supported filetypes:
     - [X] bitmap
     - [ ] png
