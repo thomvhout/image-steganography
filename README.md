@@ -1,7 +1,7 @@
 # Description
-Dit project heeft als onderwerp stenografie, dit is vergelijkbaar met cryptografie. Maar in tegenstelling tot de data onleesbaar maken voor iemand zonder een sleutel, is het doel van stenografie het feit verbergen dat er geheime data aanwezig is.
+Dit project heeft als onderwerp steganografie, dit is vergelijkbaar met cryptografie. Maar in tegenstelling tot de data onleesbaar maken voor iemand zonder een sleutel, is het doel van steganografie het feit verbergen dat er geheime data aanwezig is.
 
-De vorm van stenografie waar dit project om draait is stenografie toegepast op afbeeldingen. Door data te overschrijven op lagere bits van de originele afbeelding, kan data verstopt worden. Deze data kan vervolgens weer uitgelezen worden en worden gescheiden van de verstopte data.
+De vorm van stenografie waar dit project om draait is steganografie toegepast op afbeeldingen. Door data te overschrijven op lagere bits van de originele afbeelding, kan data verstopt worden. Deze data kan vervolgens weer uitgelezen worden en worden gescheiden van de verstopte data.
 
 # Results
 ## Original Image
@@ -21,7 +21,7 @@ make all
 # Features
 - [X] Encode 
 - [ ] Decode
-- Supported filetypes:
+Supported filetypes:
     - [X] bitmap
     - [ ] png
     - [ ] jpg
