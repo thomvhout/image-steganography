@@ -6,8 +6,10 @@ De vorm van stenografie waar dit project om draait is stenografie toegepast op a
 # Results
 ## Original Image
 <div style="text-align:center"><img alt="Original Image" src="./img/original.jpg"/></div>
+
 ## Encode Using 1 Bit
 <div style="text-align:center"><img alt="1 Bit Encode Image" src="./img/1bitEncode.bmp"/></div>
+
 ## Encode Using 6 Bits
 <div style="text-align:center"><img alt="6 Bit Encode Image" src="./img/6bitEncode.bmp"/></div>
 
